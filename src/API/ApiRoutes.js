@@ -1,4 +1,4 @@
-const host = "https://only-education.onrender.com";
+const host = "https://only-education-server.onrender.com";
 
 export const login = `${host}/api/login`;
 export const getquestions = `${host}/api/questions`;
